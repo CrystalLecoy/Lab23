@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab23", "Lab23\Lab23.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1_Lab10", "ConsoleApplication1_Lab10\ConsoleApplication1_Lab10\ConsoleApplication1_Lab10.csproj", "{ABE60B4D-52EC-4F18-835C-AC6CDC6C8CCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLab10(MovieList)", "..\..\Visual Studio 2015\Projects\Labs\ConsoleLab10(MovieList)\ConsoleLab10(MovieList)\ConsoleLab10(MovieList).csproj", "{D085216A-3276-4117-AE1C-69A1482B67A3}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{ABE60B4D-52EC-4F18-835C-AC6CDC6C8CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABE60B4D-52EC-4F18-835C-AC6CDC6C8CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABE60B4D-52EC-4F18-835C-AC6CDC6C8CCC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D085216A-3276-4117-AE1C-69A1482B67A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D085216A-3276-4117-AE1C-69A1482B67A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D085216A-3276-4117-AE1C-69A1482B67A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D085216A-3276-4117-AE1C-69A1482B67A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
